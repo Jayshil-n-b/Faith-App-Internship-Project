@@ -40,7 +40,7 @@ export const course = {
       "Lorem ipsum text about the instructor's background and philosophy.",
   },
   testimonial: {
-    text: "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+    text: '"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system."',
     reviewer_name: "Name of the reviewer",
     reviewer_designation: "Designation of the reviewer",
   },
