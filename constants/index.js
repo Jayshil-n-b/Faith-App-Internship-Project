@@ -35,10 +35,8 @@ export const course = {
       "Expert techniques for manifestation offer simple ways to use numbers to co-create with the universe.",
     ],
   },
-  about_instructor: {
-    html_content:
-      "Lorem ipsum text about the instructor's background and philosophy.",
-  },
+  about_instructor:
+    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore est, nobis voluptatem totam ab aspernatur hic mollitia quas perferendis. Praesentium commodi deleniti repellat illo quibusdam dolore, pariatur odit dolorem ratione esse sapiente, voluptates autem hic, doloremque incidunt veniam soluta neque. Ex natus porro cupiditate sunt.",
   testimonial: {
     text: '"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system."',
     reviewer_name: "Name of the reviewer",
