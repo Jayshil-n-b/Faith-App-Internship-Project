@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Instructor = () => {
   return (
-    <section className="px-28 mb-24">
+    <section className="px-28 mb-20">
       <p className="text-2xl font-bold mb-6">About the instructor</p>
       <div className="flex flex-row">
         <Image

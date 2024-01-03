@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Details = () => {
   return (
-    <section className="flex flex-row z justify-between px-28 mb-10">
+    <section className="flex flex-row z justify-between px-28 mb-20">
       <div className="flex flex-col w-1/2">
         <div>
           <p className="font-bold text-2xl mb-4">About the course</p>
@@ -48,7 +48,7 @@ const Details = () => {
           ))}
         </div>
       </div>
-      <div className="bg-purple-50 p-5 h-full">
+      <div className="bg-purple-50 p-5 h-full mt-[-42px]">
         <p className="font-bold">
           <span>Course fees</span>
         </p>
