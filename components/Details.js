@@ -3,8 +3,15 @@ import Image from "next/image";
 
 const Details = () => {
   return (
-    <section className="flex flex-row z justify-between px-28 mb-20">
+    <section className="flex flex-row z justify-between px-28 mb-20 text-lg">
       <div className="flex flex-col w-1/2">
+        <div className="flex flex-row justify-between text-lg mt-4 mb-8">
+          <button className="px-10 border-b-4 border-purple-600 pb-2">
+            ABOUT
+          </button>
+          <button className="px-10">INSTRUCTOR</button>
+          <button className="px-10">REVIEWS</button>
+        </div>
         <div>
           <p className="font-bold text-2xl mb-4">About the course</p>
           {course.course.about.map((a, e) => (
