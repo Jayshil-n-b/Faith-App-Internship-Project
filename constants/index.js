@@ -1,6 +1,6 @@
 export const course = {
   instructor: {
-    name: "NITYANAND CHARAN DAS",
+    name: "Nityanand Charan Das",
     social_media: {
       facebook: true,
       twitter: true,
@@ -21,17 +21,23 @@ export const course = {
       live_qa_sessions: true,
       whatsapp_community: true,
     },
-    about:
-      "Lorem ipsum text about managing relationships, communication, time management, and forgiveness.",
+    about: [
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus perspiciatis molestiae, dolor praesentium alias, laborum deleniti qui, eos tenetur quo delectus quas numquam cumque deserunt porro ducimus reprehenderit? Incidunt natus voluptates ratione beatae sint dicta fuga dolor quis assume",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus perspiciatis molestiae, dolor praesentium alias, laborum deleniti qui, eos tenetur quo delectus quas numquam cumque deserunt porro ducimus reprehenderit? Incidunt natus voluptates ratione beatae sint dicta fuga dolor quis assume",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus perspiciatis molestiae, dolor praesentium alias, laborum deleniti qui, eos tenetur quo delectus quas numquam cumque deserunt porro ducimus reprehenderit? Incidunt natus voluptates ratione beatae sint dicta fuga dolor quis assume",
+    ],
     what_to_expect: [
       "Learn to mange your relationships",
       "Better communication",
       "Time management",
       "Forgiveness",
     ],
+    key_topics_para:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus perspiciatis molestiae, dolor praesentium alias, laborum deleniti qui, eos tenetur quo delectus quas numquam cumque deserunt porro ducimus reprehenderit? Incidunt natus voluptates ratione beatae sint dicta fuga dolor quis assumenda voluptas labore quaerat sunt, amet nesciunt quos, illum quod!",
     key_topics: [
       "10 written and audio sessions guiding you in decoding the language of numbers so that you can easily receive their insights and messages.",
-      "Intuitive exercises and homework walk you through the energies and values of numbers and number sequences so you can become your own authority.</li><li>Handy reference to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.",
+      "Intuitive exercises and homework walk you through the energies and values of numbers and number sequences so you can become your own authority.",
+      "Handy reference to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.",
       "Expert techniques for manifestation offer simple ways to use numbers to co-create with the universe.",
     ],
   },
